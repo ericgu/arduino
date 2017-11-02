@@ -1,0 +1,30 @@
+DigitalWrite pins
+
+
+2-13 Set to low on all pins
+
+4 - debugging 
+
+Digits (right to left):
+A1  (24)
+A0  (23)
+A2  (25)
+A3  (26)
+
+Segment pins:
+6
+7
+10
+11
+12
+9
+8
+13
+
+LED strip
+DataPin = 3
+ClockPin = 2
+
+Serial in:
+RXD = 0
+TXD = 1

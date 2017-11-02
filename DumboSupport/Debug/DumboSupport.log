@@ -1,0 +1,21 @@
+﻿Build started 3/3/2012 6:04:27 PM.
+     1>Project "C:\Data\arduino\DumboSupport\DumboSupport.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\DumboSupport.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Data\Arduino\DumboSupport\Debug\DumboSupport.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\DumboSupport.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Data\Arduino\DumboSupport\Debug\DumboSupport.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Data\Arduino\DumboSupport\Debug\DumboSupport.lib" /MACHINE:X86 Debug\DumboSupport.exe.embed.manifest.res
+         Debug\DumboSupport.obj
+         Debug\Program.obj
+         Debug\stdafx.obj
+     1>MSVCRTD.lib(crtexew.obj) : error LNK2019: unresolved external symbol _WinMain@16 referenced in function ___tmainCRTStartup
+     1>C:\Data\Arduino\DumboSupport\Debug\DumboSupport.exe : fatal error LNK1120: 1 unresolved externals
+     1>Done Building Project "C:\Data\arduino\DumboSupport\DumboSupport.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.31
